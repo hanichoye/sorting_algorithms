@@ -91,12 +91,6 @@ void bitonic_deep_up(int *array_init, int *array, size_t size_init, size_t size,
 	//printf("despues de swap\n");
 	//print_array(array, size);
 }
-/**
- *
- *
- *
- *
- **/
 void bitonic_sort(int *array, size_t size)
 {
 	size_t size_init = size;
